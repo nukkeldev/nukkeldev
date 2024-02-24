@@ -1,16 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nukkel</h1>
-<h3 align="center">A somewhat experienced dev from the US :P.</h3>
-<h3 align="center">I’m currently learning WGPU with Rust and am one of the programming leads for FRC 2046. I have a strong dislike for frontend and much prefer backend.</h3>
+# Introduction
+Hello! My name, or psuedonym I guess, is `Nukkel`. A `16-year-old` developer from the US.
 
-<h3 align="center">Experienced in:</h3>
-<p align="center">Rust (Backend)<p>
-<p align="center">Java (WPILib)<p>
-<p align="center">Kotlin<p>
-<h3 align="center">Able to use:</h3>
-<p align="center">JS/TS</p>
-<p align="center">Python</p>
-<p align="center">C/C++</p>
-<p align="center">C#</p>
-<p align="center">Basically any other non-functional language (I experiment with too many languages).</p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nukkeldev&theme=dark" alt="nukkeldev" /></p>
+I have been programming for `6 years` and am currently interested in a variety of topics (see my pins) mostly oriented towards lower-level programming. Additionally, I am one of the programming leads for FRC 2046.
+The majority of my development happens in Rust, consequentially the programming language I am most experienced with, but I choose the best fitting toolset for a project regardless of language.
+
+## What am I working on right now (02/23/24)?
+Right now I am working on `mdns-impl`. An implementation and exploration of the mdns/dns-sd protocol in pure rust to get more familiar with implementing specifications, creating libraries, and unit testing.
+This is a precursor for another project I am working on `lanp2p2`, a rewrite of a P2P TUI chat client I wrote prior last year. I am focused on learning as many new things as I can right now so I can familiarize
+myself with common practices in larger scale projects.
