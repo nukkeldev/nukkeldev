@@ -1,5 +1,5 @@
 # Introduction
-Hello! My name, or psuedonym I guess, is `Nukkel`. A `16-year-old` developer from the US.
+Hello! My name, or psuedonym I guess, is `Nukkel`. A `17-year-old` developer from the US.
 
 I have been programming for `6 years` and am currently interested in a variety of topics (see my pins) mostly oriented towards lower-level programming. Additionally, I am one of the programming leads for FRC 2046.
 The majority of my development happens in Rust, consequentially the programming language I am most experienced with, but I choose the best fitting toolset for a project regardless of language.
