@@ -1,6 +1,6 @@
 > [!NOTE]
-> Currently packaging [slang](https://github.com/nukkeldev/slang) and it's dependencies for [All Your Codebase](https://github.com/allyourcodebase)
-> to get hot-reloading for shaders working for [garden](https://github.com/nukkeldev/game-engine)
+> Currently working on [aside](https://github.com/nukkeldev/aside) to experiment with using AI as a pair programmer to getting working MVPs of programs quickly (that I can later improve myself).
+> [garden](https://github.com/nukkeldev/garden) is currently on hiatus until I get motivation to work on it again as I need to do a backend rendering rewrite from SDL3GPU to NRI (which is _a lot_ of work).
 
 - 18-year-old developer from the US
 - Started programming self-taught in 2016
@@ -10,5 +10,4 @@
   - Mostly unfinished projects so not much to showcase yet
   - Varying levels of experience in most other mainstream languages (JS/TS, C/C++, Kotlin, Python, C#, etc.)
 - Recently graduated HS, going to college for CE
-- Never uses AI for codegen, takes the fun out of programming entirely
 - I use [NixOS](https://github.com/NixOS) btw: [nixos-config](https://github.com/nukkeldev/nixos-config)
