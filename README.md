@@ -1,6 +1,6 @@
 > [!NOTE]
-> Currently working on [aside](https://github.com/nukkeldev/aside) to experiment with using AI as a pair programmer to getting working MVPs of programs quickly (that I can later improve myself).
-> [garden](https://github.com/nukkeldev/garden) is currently on hiatus until I get motivation to work on it again as I need to do a backend rendering rewrite from SDL3GPU to NRI (which is _a lot_ of work).
+> Learning the basics of networking with Cisco Packet Tracer (see [my notes](https://github.com/nukkeldev/cisco-packet-tracer)) and working on [`zpp`](https://github.com/nukkeldev/zpp.git),
+> a C++ header binding generator for Zig.
 
 - 18-year-old developer from the US
 - Started programming self-taught in 2016
