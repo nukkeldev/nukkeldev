@@ -10,4 +10,3 @@
   - Mostly unfinished projects so not much to showcase yet
   - Varying levels of experience in most other mainstream languages (JS/TS, C/C++, Kotlin, Python, C#, etc.)
 - Recently graduated HS, going to college for CE
-- I use [NixOS](https://github.com/NixOS) btw: [nixos-config](https://github.com/nukkeldev/nixos-config)
