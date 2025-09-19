@@ -1,6 +1,5 @@
 > [!NOTE]
-> Learning the basics of networking with Cisco Packet Tracer (see [my notes](https://github.com/nukkeldev/cisco-packet-tracer)) and working on [`zpp`](https://github.com/nukkeldev/zpp.git),
-> a C++ header binding generator for Zig.
+> Writing an [S-mode kernel](https://github.com/nukkeldev/os) in Zig targeting 64-bit RISC-V.
 
 - 18-year-old developer from the US
 - Started programming self-taught in 2016
@@ -9,4 +8,4 @@
     and Java (see [bear-metal-2046](https://github.com/bear-metal-2046) (2023-2025))
   - Mostly unfinished projects so not much to showcase yet
   - Varying levels of experience in most other mainstream languages (JS/TS, C/C++, Kotlin, Python, C#, etc.)
-- Recently graduated HS, going to college for CE
+- In college for CE
