@@ -3,7 +3,7 @@
 
 - 18-year-old developer from the US
 - Started programming self-taught in 2016
-- Primarily works with [Zig](https://ziglang.org/), with a focus on build systems and graphics programming
+- Primarily works with [Zig](https://ziglang.org/), with a focus on development tooling, graphics programming, and operating systems.
   - Similar level of experience in Rust ([rtftwatfwir](https://github.com/nukkeldev/rtftwatfwir), [wpilog-parser](https://github.com/nukkeldev/wpilog-parser))
     and Java (see [bear-metal-2046](https://github.com/bear-metal-2046) (2023-2025))
   - Mostly unfinished projects so not much to showcase yet
