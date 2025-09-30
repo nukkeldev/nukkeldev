@@ -1,5 +1,5 @@
 > [!NOTE]
-> Writing an [S-mode kernel](https://github.com/nukkeldev/os) in Zig targeting 64-bit RISC-V.
+> Writing an [S-mode RISC-V kernel for Hardware Introspection](https://github.com/nukkeldev/os) in Zig to experiment more with RISC-V and embedded.
 
 - 18-year-old developer from the US
 - Started programming self-taught in 2016
